@@ -15,7 +15,7 @@ body {
     font-family: 'Open Sans', sans-serif; 
     color: white;
     background-color: var(--Violet);
-    background-image: url(/images/bg-mobile.svg);
+    background-image: url(images/bg-mobile.svg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -116,7 +116,7 @@ h1{
 @media only screen and (min-width:1284px){
 
     body{ 
-        background-image: url(/images/bg-desktop.svg);
+        background-image: url(images/bg-desktop.svg);
         background-size: unset;
     }
     main{
